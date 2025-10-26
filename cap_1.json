@@ -1,0 +1,490 @@
+{
+  "chapter": 1,
+  "title": "An article on a webzine",
+  "original_language": "en",
+  "full_text": "# 1\n\n\n1. An article on a webzine\n\n\nThere is a game called Pick me up.\n\n\nIt is a mobile game launched by Mobius Co., Ltd. two years ago and has a subtitle called Hyper Roguelike Summoning RPG.\n\n\nToday, in celebration of the 2nd anniversary of Pick Me Up and the 100 million DL breakthrough, I am writing a glorious special article. I wish you well.\n\n\nPick Me Up is already a popular game that boasts 100 million users worldwide, but I would like to introduce the game once again for those who may not know.\n\n\nWhen the game called Pick Me Up first appeared on the storefront, many people questioned it.\n\n\nIsn’t this a common mass-produced star game?\n\n\nHowever, Pick Me Up gradually started to gain popularity through word of mouth, and now it has become a national mobile game enjoyed not only in Korea but also around the world.\n\n\nWhat is the reason that Pick Me Up was able to become the world’s No. 1 mobile game? Let’s look at the attractive points.\n\n\nThe first Moebius Summon.\n\n\nIt is a key point system that was completed after about 5 years of development. The point of the system is to randomly mix thousands of patterns to create infinite heroes.\n\n\nIn other words, whether Pick Me Up is picked hundreds, thousands, or tens of thousands of times, the possibility of duplicate heroes is almost zero. It doesn’t make sense in terms of common sense, but Pick Me Up broke that common sense and appeared.\n\n\nHowever, a revolutionary system was waiting to the extent that this was nothing more than a minor change.\n\n\nThe second Quantum AI.\n\n\nA few years ago, a match between a world-class Go player and artificial intelligence drew attention. The battle of the century ended with the victory of artificial intelligence.\n\n\nThe reporter also imagined while watching the historical scene. Isn’t it the appearance of super-high artificial intelligence that we only saw in future movies?\n\n\nIronically, such an artificial intelligence revolution started with a game company.\n\n\nThe secret to cultivating tens of millions of pick-mees (short for pick-me-up) is right there. Mobius, the developer, applied ultra-high artificial intelligence, which was thought to be a decades later, to a mere mobile game.\n\n\nThe heroes of Pick Me Up each feel and think. When each hero is put on the stage, a hundred out of a hundred different reactions come out. Heroes demand and assert their masters, sometimes refusing or obeying orders.\n\n\nWhen it comes to the battle, which is the core of the game, it shows even more astonishing results. Even if the master does not give orders, the heroes take their own effective tactics and use different tactics and formations for each battle.\n\n\nAlso, even though they had the same training, the growth value was different, and even though they were the same level and grade, the process and outcome of the battle were different.\n\n\nTherefore, there are no hero rating tables and fixed training methods that are common in other games. This is because each of the thousands and hundreds of millions of heroes in Pick Me Up reminds us of a single human being.\n\n\nThis is the biggest reason why Pick Me Up is called ‘the devil’s game’.\n\n\nBecause it’s too realistic. The heroes in the game are just products of data, but they are so real.\n\n\nStill, the developer, Mobius, has not revealed the detailed algorithm.\n\n\nNot long ago, a Chinese giant tried to acquire a developer by spending hundreds of billions of dollars, but it failed.\n\n\nThird Roguelike.\n\n\n\n\nOh, I have nothing to do.\n\n\ncontent is lacking\n\n\nThe above two sentences are a lament representing the feelings of hard users who exist in any game. This also proves that the development speed of most games cannot keep up with the speed of content consumption.\n\n\nA Moebius employee said in an interview.\n\n\n‘A super hard user who spends tens of millions of won on nuclear billing and only games all day? Give it a try.’\n\n\nWhen the above interview first came out, many users snorted. However, until now, two years after its release, not a single user has reached the end of the main dungeon of Pick Me Up.\n\n\nIn the current situation, there are many users who pour hundreds of millions of won, let alone tens of millions of won, and users who invest more than 18 hours every day in Pick Me Up.\n\n\nPick Me Up adopted a rule called hardcore.\n\n\nWhen it was first released, users reacted somewhat absurdly. Hardcore meant that when a hero died, it would disappear as it was.\n\n\nA hero who spent millions of dollars and invested hundreds of hours disappears in just one battle? In the early days of Pick Me Up, this was pointed out as the biggest drawback of the game, and it also bought the complaints of many users.\n\n\nOf course, Moebius did not revise this rule at all, and rather, as time passed, more and more people began to regard it as an attractive point.\n\n\nOne enthusiast claims.\n\n\nThe heroes of Pick Me Up are programming puppets with precision enough to be mistaken for humans.\n\n\nIf so, wouldn’t it be natural for there to be death as well as birth through summoning?\n\n\nAlso, the stage of Pick Me Up changes randomly, and no one can predict what kind of mission will come out. The battle is handled by artificial intelligence, so there is little room for the master to intervene once the mission begins.\n\n\nIn addition to this, there are dozens and hundreds of variables that cannot be predicted. Sometimes, a party sent in a desperate manner clears a transcendental difficulty dungeon, and sometimes a 6-star elite party is wiped out in a lower difficulty dungeon.\n\n\nEverything in Pick Me Up is not fixed.\n\n\nIt constantly changes and flows.\n\n\nSomeone criticizes Pick Me Up like this.\n\n\nThen what is the significance of the player’s existence?\n\n\nAre you a spectator? Anyway, it’s a luck X mess game, but what does it mean?\n\n\nIsn’t it a Manggame that has no control or strategy to win on its own if you pick and send out a hero who fights well with high stars?\n\n\nTo such a person, I would like to introduce a master from Korea.\n\n\nHis account name is Loki.\n\n\nHe is the only Korean top ranked player in the world and a leading user called the Master of master.\n\n\nEven so, it’s not number 1.\n\n\nThat’s right. Rocky is only fifth in the world rankings.\n\n\nLooking at the rankings, it’s a bit ironic to be called the world’s best master.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "# 1",
+      "is_dialogue": false,
+      "is_narrative": false,
+      "is_descriptive": true,
+      "note": "heading"
+    },
+    {
+      "id": 2,
+      "text": "1. An article on a webzine",
+      "is_dialogue": false,
+      "is_narrative": false,
+      "is_descriptive": true,
+      "note": "heading"
+    },
+    {
+      "id": 3,
+      "text": "There is a game called Pick me up.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 4,
+      "text": "It is a mobile game launched by Mobius Co., Ltd. two years ago and has a subtitle called Hyper Roguelike Summoning RPG.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 5,
+      "text": "Today, in celebration of the 2nd anniversary of Pick Me Up and the 100 million DL breakthrough, I am writing a glorious special article. I wish you well.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 6,
+      "text": "Pick Me Up is already a popular game that boasts 100 million users worldwide, but I would like to introduce the game once again for those who may not know.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 7,
+      "text": "When the game called Pick Me Up first appeared on the storefront, many people questioned it.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 8,
+      "text": "Isn’t this a common mass-produced star game?",
+      "is_dialogue": true,
+      "dialogue_id": 1,
+      "is_narrative": false,
+      "is_descriptive": false
+    },
+    {
+      "id": 9,
+      "text": "However, Pick Me Up gradually started to gain popularity through word of mouth, and now it has become a national mobile game enjoyed not only in Korea but also around the world.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 10,
+      "text": "What is the reason that Pick Me Up was able to become the world’s No. 1 mobile game? Let’s look at the attractive points.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 11,
+      "text": "The first Moebius Summon.",
+      "is_dialogue": false,
+      "section_heading": true,
+      "section_ref": "Moebius Summon",
+      "is_narrative": false,
+      "is_descriptive": true
+    },
+    {
+      "id": 12,
+      "text": "It is a key point system that was completed after about 5 years of development. The point of the system is to randomly mix thousands of patterns to create infinite heroes.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 13,
+      "text": "In other words, whether Pick Me Up is picked hundreds, thousands, or tens of thousands of times, the possibility of duplicate heroes is almost zero. It doesn’t make sense in terms of common sense, but Pick Me Up broke that common sense and appeared.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 14,
+      "text": "However, a revolutionary system was waiting to the extent that this was nothing more than a minor change.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 15,
+      "text": "The second Quantum AI.",
+      "is_dialogue": false,
+      "section_heading": true,
+      "section_ref": "Quantum AI",
+      "is_narrative": false,
+      "is_descriptive": true
+    },
+    {
+      "id": 16,
+      "text": "A few years ago, a match between a world-class Go player and artificial intelligence drew attention. The battle of the century ended with the victory of artificial intelligence.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 17,
+      "text": "The reporter also imagined while watching the historical scene. Isn’t it the appearance of super-high artificial intelligence that we only saw in future movies?",
+      "is_dialogue": true,
+      "dialogue_id": 2,
+      "is_narrative": false,
+      "is_descriptive": false
+    },
+    {
+      "id": 18,
+      "text": "Ironically, such an artificial intelligence revolution started with a game company.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 19,
+      "text": "The secret to cultivating tens of millions of pick-mees (short for pick-me-up) is right there. Mobius, the developer, applied ultra-high artificial intelligence, which was thought to be a decades later, to a mere mobile game.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 20,
+      "text": "The heroes of Pick Me Up each feel and think. When each hero is put on the stage, a hundred out of a hundred different reactions come out. Heroes demand and assert their masters, sometimes refusing or obeying orders.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 21,
+      "text": "When it comes to the battle, which is the core of the game, it shows even more astonishing results. Even if the master does not give orders, the heroes take their own effective tactics and use different tactics and formations for each battle.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 22,
+      "text": "Also, even though they had the same training, the growth value was different, and even though they were the same level and grade, the process and outcome of the battle were different.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 23,
+      "text": "Therefore, there are no hero rating tables and fixed training methods that are common in other games. This is because each of the thousands and hundreds of millions of heroes in Pick Me Up reminds us of a single human being.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 24,
+      "text": "This is the biggest reason why Pick Me Up is called ‘the devil’s game’.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 25,
+      "text": "Because it’s too realistic. The heroes in the game are just products of data, but they are so real.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 26,
+      "text": "Still, the developer, Mobius, has not revealed the detailed algorithm.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 27,
+      "text": "Not long ago, a Chinese giant tried to acquire a developer by spending hundreds of billions of dollars, but it failed.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 28,
+      "text": "Third Roguelike.",
+      "is_dialogue": false,
+      "section_heading": true,
+      "section_ref": "Roguelike",
+      "is_narrative": false,
+      "is_descriptive": true
+    },
+    {
+      "id": 29,
+      "text": "Oh, I have nothing to do.",
+      "is_dialogue": true,
+      "dialogue_id": 3,
+      "is_narrative": false,
+      "is_descriptive": false,
+      "note": "short lament representative of hardcore users"
+    },
+    {
+      "id": 30,
+      "text": "content is lacking",
+      "is_dialogue": true,
+      "dialogue_id": 4,
+      "is_narrative": false,
+      "is_descriptive": false,
+      "note": "short lament representative of hardcore users"
+    },
+    {
+      "id": 31,
+      "text": "The above two sentences are a lament representing the feelings of hard users who exist in any game. This also proves that the development speed of most games cannot keep up with the speed of content consumption.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 32,
+      "text": "A Moebius employee said in an interview.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 33,
+      "text": "‘A super hard user who spends tens of millions of won on nuclear billing and only games all day? Give it a try.’",
+      "is_dialogue": true,
+      "dialogue_id": 5,
+      "speaker": "Moebius employee",
+      "is_narrative": false,
+      "is_descriptive": false,
+      "note": "literal quotation indicated in the text"
+    },
+    {
+      "id": 34,
+      "text": "When the above interview first came out, many users snorted. However, until now, two years after its release, not a single user has reached the end of the main dungeon of Pick Me Up.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 35,
+      "text": "In the current situation, there are many users who pour hundreds of millions of won, let alone tens of millions of won, and users who invest more than 18 hours every day in Pick Me Up.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 36,
+      "text": "Pick Me Up adopted a rule called hardcore.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 37,
+      "text": "When it was first released, users reacted somewhat absurdly. Hardcore meant that when a hero died, it would disappear as it was.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 38,
+      "text": "A hero who spent millions of dollars and invested hundreds of hours disappears in just one battle? In the early days of Pick Me Up, this was pointed out as the biggest drawback of the game, and it also bought the complaints of many users.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 39,
+      "text": "Of course, Moebius did not revise this rule at all, and rather, as time passed, more and more people began to regard it as an attractive point.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 40,
+      "text": "One enthusiast claims.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 41,
+      "text": "The heroes of Pick Me Up are programming puppets with precision enough to be mistaken for humans.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 42,
+      "text": "If so, wouldn’t it be natural for there to be death as well as birth through summoning?",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 43,
+      "text": "Also, the stage of Pick Me Up changes randomly, and no one can predict what kind of mission will come out. The battle is handled by artificial intelligence, so there is little room for the master to intervene once the mission begins.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 44,
+      "text": "In addition to this, there are dozens and hundreds of variables that cannot be predicted. Sometimes, a party sent in a desperate manner clears a transcendental difficulty dungeon, and sometimes a 6-star elite party is wiped out in a lower difficulty dungeon.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": true
+    },
+    {
+      "id": 45,
+      "text": "Everything in Pick Me Up is not fixed.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 46,
+      "text": "It constantly changes and flows.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 47,
+      "text": "Someone criticizes Pick Me Up like this.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 48,
+      "text": "Then what is the significance of the player’s existence?",
+      "is_dialogue": true,
+      "dialogue_id": 6,
+      "is_narrative": false,
+      "is_descriptive": false,
+      "note": "rhetorical question presented as criticism"
+    },
+    {
+      "id": 49,
+      "text": "Are you a spectator? Anyway, it’s a luck X mess game, but what does it mean?",
+      "is_dialogue": true,
+      "dialogue_id": 7,
+      "is_narrative": false,
+      "is_descriptive": false,
+      "note": "rhetorical question/critique"
+    },
+    {
+      "id": 50,
+      "text": "Isn’t it a Manggame that has no control or strategy to win on its own if you pick and send out a hero who fights well with high stars?",
+      "is_dialogue": true,
+      "dialogue_id": 8,
+      "is_narrative": false,
+      "is_descriptive": false,
+      "note": "rhetorical question about 'skill vs luck'"
+    },
+    {
+      "id": 51,
+      "text": "To such a person, I would like to introduce a master from Korea.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 52,
+      "text": "His account name is Loki.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 53,
+      "text": "He is the only Korean top ranked player in the world and a leading user called the Master of master.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 54,
+      "text": "Even so, it’s not number 1.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 55,
+      "text": "That’s right. Rocky is only fifth in the world rankings.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    },
+    {
+      "id": 56,
+      "text": "Looking at the rankings, it’s a bit ironic to be called the world’s best master.",
+      "is_dialogue": false,
+      "is_narrative": true,
+      "is_descriptive": false
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_id": 1,
+      "text": "Isn’t this a common mass-produced star game?",
+      "type": "rhetorical_question",
+      "speaker": "narrator",
+      "paragraph_ref": 8
+    },
+    {
+      "dialogue_id": 2,
+      "text": "Isn’t it the appearance of super-high artificial intelligence that we only saw in future movies?",
+      "type": "rhetorical_question",
+      "speaker": "reporter/narrator",
+      "paragraph_ref": 17
+    },
+    {
+      "dialogue_id": 3,
+      "text": "Oh, I have nothing to do.",
+      "type": "lament",
+      "speaker": "hard_user (representative)",
+      "paragraph_ref": 29
+    },
+    {
+      "dialogue_id": 4,
+      "text": "content is lacking",
+      "type": "lament",
+      "speaker": "hard_user (representative)",
+      "paragraph_ref": 30
+    },
+    {
+      "dialogue_id": 5,
+      "text": "‘A super hard user who spends tens of millions of won on nuclear billing and only games all day? Give it a try.’",
+      "type": "quoted",
+      "speaker": "Moebius employee",
+      "paragraph_ref": 33
+    },
+    {
+      "dialogue_id": 6,
+      "text": "Then what is the significance of the player’s existence?",
+      "type": "rhetorical_question",
+      "speaker": "critic/narrator",
+      "paragraph_ref": 48
+    },
+    {
+      "dialogue_id": 7,
+      "text": "Are you a spectator? Anyway, it’s a luck X mess game, but what does it mean?",
+      "type": "rhetorical_question",
+      "speaker": "critic/narrator",
+      "paragraph_ref": 49
+    },
+    {
+      "dialogue_id": 8,
+      "text": "Isn’t it a Manggame that has no control or strategy to win on its own if you pick and send out a hero who fights well with high stars?",
+      "type": "rhetorical_question",
+      "speaker": "critic/narrator",
+      "paragraph_ref": 50
+    }
+  ],
+  "summary": "An article describing the success of the game Pick Me Up and its innovations in AI, summoning system, and roguelike mechanics.",
+  "current_characters": [
+    "Narrator",
+    "Moebius employee",
+    "Hard user (representative)",
+    "Critic",
+    "Loki"
+  ],
+  "location": "Webzine newsroom / Online article (implied)"
+}
