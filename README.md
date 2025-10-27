@@ -218,13 +218,21 @@ There are **no volume or subfolders** to keep the structure flat and easily acce
 
 **Example structure:**
 📦 repository_root/
+
 ┣ 📂 chapters/
+
 ┃ ┣ 📜 chapter_01.json
+
 ┃ ┣ 📜 chapter_02.json
+
 ┃ ┣ 📜 chapter_03.json
+
 ┃ ┗ 📜 ...
+
 ┣ 📜 README.md
+
 ┗ 📜 LICENSE
+
 
 
 - Each JSON file represents **one full chapter**.  
