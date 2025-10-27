@@ -146,7 +146,7 @@ To maintain a consistent narrative and structural format across all chapters, pl
 ### 1. Dialogues
 - Set `"is_dialogue": true` for spoken lines.  
 - Each new speaker starts with a new `"id"`.  
-- Use `"dialogue_id"` to group multi-line dialogue segments spoken by the same character.
+- Use `"dialogue_id"` to group dialogues spoken by the same character.
 
 **Example:**
 ```json
