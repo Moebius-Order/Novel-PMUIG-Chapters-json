@@ -1,15 +1,18 @@
-# These are supported funding model platforms
+github: 
+  - ihelloeveryone
+  - jpgmv20
 
-github: [ihelloeveryone, jpgmv20]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: # Replace with a single Polar username
-buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
-thanks_dev: # Replace with a single thanks.dev username
-custom: ['https://discord.gg/xBM7BZmJPH']
+patreon: null          # No Patreon account yet
+open_collective: null  # No Open Collective account yet
+ko_fi: null            # No Ko-fi account yet
+tidelift: null         # No Tidelift account yet
+community_bridge: null # No Community Bridge project yet
+liberapay: null        # No Liberapay account yet
+issuehunt: null        # No IssueHunt account yet
+lfx_crowdfunding: null # No LFX Crowdfunding project yet
+polar: null            # No Polar account yet
+buy_me_a_coffee: null  # No Buy Me a Coffee account yet
+thanks_dev: null       # No thanks.dev account yet
+
+custom: 
+  - "https://discord.gg/xBM7BZmJPH"
