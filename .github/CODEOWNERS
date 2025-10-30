@@ -1,0 +1,16 @@
+# ────────────────────────────────
+#  CODEOWNERS — NOVEL TO JSON | PROJECT QUANTUM AI 
+# ────────────────────────────────
+
+# Core repository management
+* @ihelloeveryone @jpgmv20 @ZIIIul @Moebius-Order/core-team
+
+# JSON Chapters
+/chapters/ @ihelloeveryone @jpgmv20
+
+# Development Scripts
+/scripts/ @ZIIIul
+
+# Documentation and configuration
+/docs/ @Moebius-Order/core-team
+/.github/ @ihelloeveryone

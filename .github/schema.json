@@ -1,0 +1,74 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Pick Me Up Infinite Gacha Novel Chapter Schema",
+    "type": "object",
+    "required": ["chapter", "title", "original_language", "full_text", "paragraphs"],
+    "properties": {
+      "chapter": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Sequential chapter number"
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Chapter title"
+      },
+      "original_language": {
+        "type": "string",
+        "pattern": "^[a-z]{2}$",
+        "description": "ISO 639-1 language code (e.g., 'en')"
+      },
+      "full_text": {
+        "type": "string",
+        "minLength": 10,
+        "description": "Full text of the chapter"
+      },
+      "paragraphs": {
+        "type": "array",
+        "minItems": 1,
+        "description": "List of paragraph objects in the chapter",
+        "items": {
+          "type": "object",
+          "required": ["id", "text", "is_dialogue", "is_narrative", "is_descriptive", "section_heading", "section_ref"],
+          "properties": {
+            "id": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "text": {
+              "type": "string",
+              "minLength": 1
+            },
+            "is_dialogue": {
+              "type": "boolean"
+            },
+            "dialogue_id": {
+              "type": ["integer", "null"],
+              "minimum": 1,
+              "description": "Optional ID for dialogue tracking"
+            },
+            "is_narrative": {
+              "type": "boolean"
+            },
+            "is_descriptive": {
+              "type": "boolean"
+            },
+            "section_heading": {
+              "type": "boolean"
+            },
+            "section_ref": {
+              "type": "string"
+            },
+            "note": {
+              "type": ["string", "null"],
+              "description": "Optional note or commentary on the paragraph"
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    },
+    "additionalProperties": false
+  }
+  

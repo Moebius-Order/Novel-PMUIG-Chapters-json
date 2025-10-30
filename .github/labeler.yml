@@ -1,0 +1,11 @@
+chapter:
+  - "chapters/**"
+
+documentation:
+  - "docs/**"
+
+config:
+  - ".github/**"
+
+priority-high:
+  - "chapters/chapter_0*.json"
