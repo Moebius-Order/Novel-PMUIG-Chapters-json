@@ -1,18 +1,21 @@
 name: Validate Novel JSON Files
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "chapters/**/*.json"
-      - ".github/schema.json"
   pull_request:
     branches:
       - main
     paths:
       - "chapters/**/*.json"
-      - ".github/schema.json"
+      - "schema.json"
+  push:
+    branches:
+      - main
+    paths:
+      - "chapters/**/*.json"
+      - "schema.json"
+
+permissions:
+  contents: read   # minimal permission needed to read repo files
 
 jobs:
   validate-json:
@@ -20,27 +23,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository
       - name: 🧩 Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Setup Node.js
       - name: 🛠️ Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # Step 3: Install AJV CLI
-      - name: 📦 Install AJV CLI
+      - name: 📦 Install AJV CLI for JSON Schema validation
         run: npm install -g ajv-cli
 
-      # Step 4: Validate JSON files
       - name: 🔍 Validate chapter JSON files
         run: |
-          echo "Validating all chapter JSON files using .github/schema.json..."
-          ajv validate -s .github/schema.json -d "chapters/**/*.json" --strict=false || exit 1
-
-      # Step 5: Success message
-      - name: ✅ Validation Success
-        if: success()
-        run: echo "All chapter JSON files are valid!"
+          echo "Validating all chapter JSON files using schema.json..."
+          ajv validate -s schema.json -d "chapters/**/*.json" --strict=false || exit 1
