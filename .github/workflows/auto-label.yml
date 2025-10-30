@@ -2,14 +2,19 @@ name: Auto Label Pull Requests
 
 on:
   pull_request:
-      types: [opened, synchronize]
+    types: [opened, synchronize]
 
-      jobs:
-        label:
-            runs-on: ubuntu-latest
-                steps:
-                      - uses: actions/checkout@v4
-                            - uses: actions/labeler@v5
-                                    with:
-                                              repo-token: ${{ secrets.GITHUB_TOKEN }}
-                                              
+jobs:
+  label:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Apply labels
+      - name: Apply labels
+        uses: actions/labeler@v5
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
